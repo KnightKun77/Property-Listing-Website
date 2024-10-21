@@ -1,0 +1,1 @@
+Property Listing Website is a web-based platform designed to help users browse, search, and view real estate properties. It offers an intuitive and responsive interface, making it easy for users to interact with the site on various devices. The platform is built using HTML, CSS, and JavaScript, focusing on a clean user interface and smooth functionality.
